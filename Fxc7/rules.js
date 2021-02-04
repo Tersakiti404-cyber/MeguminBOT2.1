@@ -35,7 +35,7 @@ return `
 ┃
 ┣⊱❥ \`\`\`Mau Invit Bot?? Donasi Gan,\`\`\`
 ┃ \`\`\`Kalo Gamau Donasi Follow Ig\`\`\`
-┃ \`\`\`@_farhan_xcode7\`\`\`
+┃ \`\`\`@mhmdfjralfarizi_\`\`\`
 ┃
 ┣⊱❥ \`\`\`Kalian Bisa Mempublish Quotes Kalian\`\`\`
 ┃ \`\`\`Jika Minat Hubungi Aja Owner Buat\`\`\`
