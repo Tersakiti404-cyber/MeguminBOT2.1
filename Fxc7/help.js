@@ -7,9 +7,6 @@ ${instagram}
 \`\`\`SUBSCRIBE😁\`\`\`
 ${yt}
 
-\`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
-
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
 \`\`\`MENGGUNAKAN BOT\`\`\`
@@ -55,7 +52,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ͏͏͏͏͏͏͏͏͏͏͏͏͏͏╭──────「 *MEDIA DOWNLOADER* 」
 ┴
 │➻ *${prefix}tiktokstalk [username]*
-│➻ *${prefix}igstalk [_farhan_xcode7]*
+│➻ *${prefix}igstalk [mhmdfjralfarizi_]*
 │➻ *${prefix}insta [Link]*
 │➻ *${prefix}instastory [username]*
 │➻ *${prefix}ssweb [url]*
@@ -80,35 +77,35 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 │➻ *${prefix}trigger [reply image]*
 │➻ *${prefix}rip [reply image]*
 │➻ *${prefix}wasted [reply image]*
-│➻ *${prefix}cphlogo [FXC7/BOT]*
-│➻ *${prefix}cglitch [FXC7/BOT]*
-│➻ *${prefix}cpubg [FXC7/BOT]*
-│➻ *${prefix}cml [FXC7]*
+│➻ *${prefix}cphlogo [𝙼𝚎𝚐𝚞𝚖𝚒𝚗/𝙱𝙾𝚃]*
+│➻ *${prefix}cglitch [𝙼𝚎𝚐𝚞𝚖𝚒𝚗/𝙱𝙾𝚃]*
+│➻ *${prefix}cpubg [𝙼𝚎𝚐𝚞𝚖𝚒𝚗/𝙱𝙾𝚃]*
+│➻ *${prefix}cml [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
 │
-│➻ *${prefix}tahta [FXC7]*
-│➻ *${prefix}croman [FXC7 dan BOT]*
-│➻ *${prefix}cthunder [FXC7]*
-│➻ *${prefix}cbpink [FXC7]*
-│➻ *${prefix}cmwolf [FXC7]*
-│➻ *${prefix}csky [FXC7]*
-│➻ *${prefix}cwooden [FXC7]*
-│➻ *${prefix}cflower [FXC7]*
-│➻ *${prefix}clove [FXC7]*
-│➻ *${prefix}ccrossfire [FXC7]*
-│➻ *${prefix}cnaruto [FXC7]*
-│➻ *${prefix}cparty [FXC7]*
-│➻ *${prefix}cshadow [FXC7]*
-│➻ *${prefix}cminion [FXC7]*
-│➻ *${prefix}cneon [FXC7]*
-│➻ *${prefix}cneon2 [FXC7]*
-│➻ *${prefix}cneongreen [FXC7]*
-│➻ *${prefix}c3d [FXC7]*
-│➻ *${prefix}csky [FXC7]*
+│➻ *${prefix}tahta [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}croman [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 dan 𝙱𝙾𝚃]*
+│➻ *${prefix}cthunder [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cbpink [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cmwolf [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}csky [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cwooden [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cflower [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}clove [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}ccrossfire [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cnaruto [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cparty [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cshadow [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cminion [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cneon [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cneon2 [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cneongreen [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}c3d [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}csky [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
 │➻ *${prefix}tts [id Haii]*
-│➻ *${prefix}ttp [Fxc7]*
-│➻ *${prefix}cballon [Fxc7]*
-│➻ *${prefix}cpaper [Fxc7]*
-│➻ *${prefix}slide [Fxc7 BOT WA]*
+│➻ *${prefix}ttp [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cballon [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}cpaper [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
+│➻ *${prefix}slide [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 WA]*
 │
 │➻ *${prefix}stiker*
 │➻ *${prefix}gifstiker*
@@ -220,26 +217,26 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 │➻ *${prefix}jarak [Banyuwangi/Surabaya]*
 │➻ *${prefix}translate [en/Apa kabar?]*
 │➻ *${prefix}pasangan [Farhan/Iriene]*
-│➻ *${prefix}gantengcek [Farhan]*
-│➻ *${prefix}cantikcek [Iriene]*
-│➻ *${prefix}artinama [Farhan]*
-│➻ *${prefix}persengay [Topan]*
-│➻ *${prefix}pbucin [Farhan]*
-│➻ *${prefix}bpfont [Farhan]*
-│➻ *${prefix}textstyle [FXC7]*
+│➻ *${prefix}gantengcek [Fajar]*
+│➻ *${prefix}cantikcek [Debby]*
+│➻ *${prefix}artinama [Fajad]*
+│➻ *${prefix}persengay [Arif]*
+│➻ *${prefix}pbucin [Fajar]*
+│➻ *${prefix}bpfont [Fajar]*
+│➻ *${prefix}textstyle [𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃]*
 │➻ *${prefix}jadwaltv [antv]*
 │➻ *${prefix}lirik [melukis senja]*
 │➻ *${prefix}chord [Melukis senja]*
 │➻ *${prefix}wiki [Adolf Hitler]*
 │➻ *${prefix}brainly [pertanyaan]*
 │➻ *${prefix}resepmasakan [rawon]*
-│➻ *${prefix}map [Banyuwangi]*
+│➻ *${prefix}map [Bojonegoro]*
 │➻ *${prefix}film [Fast and Farious]*
 │➻ *${prefix}pinterest [gambar kucing]*
-│➻ *${prefix}infocuaca [Banyuwangi]*
-│➻ *${prefix}jamdunia [Banyuwangi]*
+│➻ *${prefix}infocuaca [Bojonegoro]*
+│➻ *${prefix}jamdunia [Bojonegoro]*
 │➻ *${prefix}mimpi [Ular]*
-│➻ *${prefix}infoalamat [jalan Banyuwangi]*
+│➻ *${prefix}infoalamat [jalan Bojonegoro]*
 │➻ *${prefix}playstore [WhatsApp]*
 ┬
 ╰───────────────────────────
@@ -269,7 +266,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 
 ╭────────────────────────
 ┴
-│➻ *${prefix}jadwalsholat [Banyuwangi]*
+│➻ *${prefix}jadwalsholat [Bojonegoro]*
 │➻ *${prefix}quran*
 │➻ *${prefix}quransurah [1]*
 │➻ *${prefix}tafsir [kafir]*
@@ -299,7 +296,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┴
 │➻ *${prefix}spamcall [083xxxxxxxxx]*
 │➻ *${prefix}spamsms [083xxxxxxxx/jumlah]*
-│➻ *${prefix}spamgmail [farhanxcode7@gmail.com]*
+│➻ *${prefix}spamgmail [mochammadfajaralfarizi12@gmail.com]*
 ┬
 ╰────────────────────────
 
@@ -341,11 +338,11 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 
 ╭─────「 *SUPPORT ${name}* 」
 │
-├➲ *O BOT*
-├➲ *M. HADI FIRMANSYA*
-├➲ *DELIA AULIA*
-├➲ *KEVIN DAVID*
-├➲ *MY TEAM FXC7 BOT*
+├➲ *Muhammad Fajar Alfarizi*
+├➲ *Debby*
+├➲ *ZID_X*
+├➲
+├➲ *MY TEAM BHI OFFICIAL*
 ╰────────────────────────`
 }
 
