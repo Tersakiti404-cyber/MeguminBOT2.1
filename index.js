@@ -155,7 +155,7 @@ const getRegisteredRandomId = () => {
 			const content = JSON.stringify(mek.message)
 			const from = mek.key.remoteJid
 			const type = Object.keys(mek.message)[0]
-			const FarhanGans = ["6281333782061@s.whatsapp.net"] // ubah aja gapapa
+			const FajarGans = ["6281333782061@s.whatsapp.net"] // ubah aja gapapa
 			const farhan = mek.message.conversation
 			const insom = from.endsWith('@g.us')
 			const nameReq = insom ? mek.participant : mek.key.remoteJid
@@ -726,8 +726,8 @@ const getRegisteredRandomId = () => {
 				    await limitAdd(sender) 	
 				    break 
 				case 'owner':
-                 client.sendMessage(from, {displayname: "Fajar", vcard: vcard}, MessageType.contact, { quoted: mek})
-                 client.sendMessage(from, 'Jika Mau Save Chat Aja Gan Ntar Disave Back:)',text, { quoted: mek} )
+                 client.sendMessage(from, {displayname: "Fajar Alfarizi", vcard: vcard}, MessageType.contact, { quoted: mek})
+                 client.sendMessage(from, 'Ini Nomor Pacarku Eh Maksudnya Ownerku Jangan Dispam Ya Nanti DiBlokir! :D',text, { quoted: mek} )
                  break
                  case 'fitnah':	
 				case 'fake':          
